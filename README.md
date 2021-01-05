@@ -1,2 +1,2 @@
-# UC3-LO2-Assignment
-TESDA Program
+# JavaScript-DOM-Tutorial
+All course files for the JavaScrip DOM Tutorials on The Net Ninja YouTube channel.
